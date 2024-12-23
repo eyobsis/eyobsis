@@ -3,9 +3,9 @@
 
 # Eyob Sisay Assefa
 
-Software/Civil Engineer & Full-Stack Developer
+Software Engineer & Full-Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_PROFILE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eyob-sisay-35214020a/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](ehtube2020@gmail.com)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](eyobaddis2015@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-Call-green?style=flat-square&logo=phone)](tel:+251973312171)
@@ -16,7 +16,7 @@ Software/Civil Engineer & Full-Stack Developer
 
 ## Summary
 
-Highly motivated and versatile software engineer and full-stack developer with a strong foundation in civil engineering. Proficient in a range of programming languages and technologies, with expertise in web app development, cloud computing, and DevOps. Proven problem-solving skills, with 2 years of experience in software engineering and app development, and over 3 years of experience in civil engineering. Possesses excellent communication, project management, and teamwork skills, with experience in office and site environments.
+I'm a full-stack developer who enjoys tackling complex challenges and finding creative solutions. My background in civil engineering instilled in me a strong analytical approach, which I now apply to building innovative web applications. I'm passionate about leveraging the power of cloud computing and DevOps to create efficient and scalable systems. With two years of dedicated software development experience and three years in civil engineering, I've honed my abilities in problem-solving, project management, and teamwork, thriving in both office and on-site collaborative environments.
 
 ## Contact Information
 
